@@ -8,3 +8,45 @@ body {
     overflow: hidden;
     font-family: Roboto, sans-serif;
 }
+
+.header {
+    display: flex;
+    background: #1F2937;
+    align-items: center;
+    justify-content: space-around;
+    height: 40px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 1.5em;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eB;
+    font-size: 14px;
+}
+
+.introduction {
+    display: flex;
+    background: #1F2937;
+    padding: 48px 0px;
+    align-items: center;
+}
+
+.content {
+    display: flex;
+    flex: 1;
+}
+
+.footer {
+    display: flex;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}
