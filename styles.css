@@ -20,6 +20,7 @@ body {
 .header img {
     height: auto;
     width: 200px;
+    margin-top: 18px;
     mix-blend-mode: lighten;
     
 }
