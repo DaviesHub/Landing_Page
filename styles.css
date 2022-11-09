@@ -85,6 +85,32 @@ a {
     flex: 1;
 }
 
+.header2 {
+    display: flex;
+    padding: 18px 0px;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
+.pic-container {
+    display: flex;
+    justify-content: center;
+    gap: 28px;
+    padding-bottom: 55px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 200px;
+    border: 2px solid #1F75FE;
+    border-radius: 10px;
+}
+
 .footer {
     display: flex;
     height: 40px;
