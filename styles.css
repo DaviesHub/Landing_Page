@@ -54,9 +54,14 @@ a {
     gap: 6px;
 }
 
-.selling-point1,
+.selling-point1 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 800;
+}
 .selling-point2 {
-    color: white;
+    color: #e5e7eB;
+    font-size: 14px;
 }
 
 .intro-button {
