@@ -17,6 +17,13 @@ body {
     height: 40px;
 }
 
+.header img {
+    height: auto;
+    width: 200px;
+    mix-blend-mode: lighten;
+    
+}
+
 ul {
     display: flex;
     list-style: none;
