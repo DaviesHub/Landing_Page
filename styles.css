@@ -47,9 +47,16 @@ a {
 }
 
 .text-part {
-    width: 400px;
+    width: 350px;
     display: flex;
     flex-direction: column;
+    margin-left: 60px;
+    gap: 6px;
+}
+
+.selling-point1,
+.selling-point2 {
+    color: white;
 }
 
 .intro-button {
