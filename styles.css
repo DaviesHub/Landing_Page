@@ -36,6 +36,22 @@ a {
     background: #1F2937;
     padding: 48px 0px;
     align-items: center;
+    justify-content: space-around;
+}
+
+.text-part {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.intro-button {
+    background-color: #3882f6;
+    color: white;
+    width: 82px;
+    padding: 5px;
+    border-radius: 8px;
+    border: none;
 }
 
 .content {
