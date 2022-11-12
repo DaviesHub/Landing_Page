@@ -102,13 +102,30 @@ a {
     padding-bottom: 55px;
 }
 
-.info {
+.infobox {
+    display: flex;
+    flex-direction: column;
+}
+
+.infopic {
     display: flex;
     flex-direction: column;
     width: 200px;
     height: 200px;
     border: 2px solid #1F75FE;
     border-radius: 10px;
+    overflow: hidden;
+}
+
+.infopic img{
+    height: 200px;
+    width:auto;
+    object-fit: cover;
+}
+
+.text {
+    width: 200px;
+    flex-wrap: wrap;
 }
 
 .footer {
