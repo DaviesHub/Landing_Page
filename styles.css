@@ -158,15 +158,26 @@ a {
     background-color: #E5E7EB;
     align-items: center;
     justify-content: center;
-    height: 200px;
+    height: 220px;
+}
+
+.star{
+    content: "\2B50";
 }
 
 .text2 {
     font-size: 18px;
-    font-weight: 100;
     width: 500px;
     flex-wrap: wrap;
     justify-content: center;
+    color: #1F2937;
+}
+
+.name {
+    margin: 10px;
+    margin-left: 300px;
+    font-size: 13px;
+    font-weight: bold;
     color: #1F2937;
 }
 
