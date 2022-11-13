@@ -200,6 +200,24 @@ a {
     align-items: center;
 }
 
+.top-text {
+    font-weight: 500;
+}
+
+.bottom-text {
+    font-size: 11px;
+    font-weight: 100; 
+}
+
+.container button {
+    background-color: #3e8ede;
+    color: white;
+    width: 96px;
+    padding: 5px;
+    border-radius: 8px;
+    border: 1px solid white;
+}
+
 .footer {
     display: flex;
     height: 40px;
