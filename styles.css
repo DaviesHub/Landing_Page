@@ -181,6 +181,25 @@ a {
     color: #1F2937;
 }
 
+.conclusion {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 56px;
+    padding-bottom: 56px;
+}
+
+.container {
+    display: flex;
+    background-color: #3E8EDE;
+    color: white;
+    width: 800px;
+    height: 75px;
+    border-radius: 5px;
+    justify-content: space-around;
+    align-items: center;
+}
+
 .footer {
     display: flex;
     height: 40px;
