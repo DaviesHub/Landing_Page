@@ -1,5 +1,5 @@
 # Landing_Page
-A simple landing page showcasing some frontend dev skills
+This is a landing page for the task manager application. This project showcases frontend development skills with html and css.
 
 *=====Acknowledgements=====*
 Hero shot by Fauxels. Powered by Pexels 
